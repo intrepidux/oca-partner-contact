@@ -6,8 +6,8 @@
 
 {
     "name": "NUTS Regions",
-    "category": "Localization/Europe",
-    "version": "15.0.1.0.2",
+    "category": "Localisation/Europe",
+    "version": "15.0.1.0.1",
     "depends": ["contacts"],
     "data": [
         "views/res_country_view.xml",
